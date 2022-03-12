@@ -315,7 +315,8 @@ label #cancel{
 .use{
     width: 100vw;
     height: 100vh;
-    background: var(--tertiary);
+    /* background: var(--tertiary); */
+    background: inherit;
 }
 .use{
     position: relative;
